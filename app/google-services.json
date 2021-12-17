@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120862297589",
+    "project_id": "my-notes-cloud-db-ceng3545",
+    "storage_bucket": "my-notes-cloud-db-ceng3545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120862297589:android:45f23e16a029e4afce64bc",
+        "android_client_info": {
+          "package_name": "com.example.mynotesclouddb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120862297589-j5jh3t9so82ot3ve5sul7ro2t70jn162.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzfA1uBoJdIn60VeedkID1kaUPwVWZDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120862297589-j5jh3t9so82ot3ve5sul7ro2t70jn162.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
